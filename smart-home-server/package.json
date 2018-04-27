@@ -1,0 +1,14 @@
+{
+  "name": "smart-home-server",
+  "version": "1.0.0",
+  "description": "Smart home backend server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^0.5.0"
+  }
+}
